@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my personal website<br>👯 I’m looking to collaborate on open source projects.<br>🌱 I’m currently learning Django and PostgreSQL.<br>💬 Ask me about Python<br>⚡ Fun fact : Sharks were on earth before trees
+👯 I’m looking to collaborate on open source projects.<br>🌱 I’m currently learning Django and PostgreSQL.<br>💬 Ask me about Python<br>⚡ Fun fact : Sharks were on earth before trees
 
 
 ## 🌐 Socials:
