@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my personal website.<br>👯 I’m looking to collaborate on open source projects.<br>🌱 I’m currently learning Javascript.<br>💬 Ask me about Python and javascript.<br>⚡ Fun fact: Sharks are older than trees.
+🔭 I’m currently working on a Url Shortener br>👯 I’m looking to collaborate on open source projects.<br>🌱 I’m currently learning Javascript.<br>💬 Ask me about Python and javascript.<br>⚡ Fun fact: Sharks are older than trees.
 
 
 # 💻 Tech Stack:
